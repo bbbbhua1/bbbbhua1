@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hi Nice to meet you 👋
 
+- 🌱 I am an EE major student studying at UESTC.
+- 😄Welcome to talk to me
 <!--
 **bbbbhua1/bbbbhua1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
