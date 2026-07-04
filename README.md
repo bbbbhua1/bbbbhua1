@@ -1,18 +1,40 @@
-## Hi Nice to meet you 👋
+# Hua | Student Researcher in Multimodal Intelligence
 
-- 🌱 I am an EE major student studying at UESTC.
-- 😄Welcome to talk to me
-<!--
-**bbbbhua1/bbbbhua1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a student researcher at the University of Electronic Science and Technology of China (UESTC), with a background in Electronic Information Engineering and Information and Communication Engineering.
 
-Here are some ideas to get you started:
+My current interests lie at the intersection of vision-language models, world models, vision-language-action systems, AI agents, and intelligent communication. I am especially interested in how intelligent systems can perceive the world, build internal representations, reason over time, and act reliably in complex environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- B.Eng. in Electronic Information Engineering, UESTC
+- M.Eng. student in Information and Communication Engineering, National Key Laboratory of Science and Technology on Communications
+- Exploring multimodal intelligence, embodied agents, and communication-aware AI systems
+- Previously worked on Transformer-based time-series forecasting and hallucination mitigation for vision-language models such as LLaVA and Qwen-style models
+
+## Research Interests
+
+- Vision-Language Models (VLMs)
+- World Models and World Action Models
+- Vision-Language-Action (VLA) Models
+- AI Agents and Embodied Intelligence
+- Intelligent Communication Systems
+- Reliable Multimodal Reasoning
+
+## Current Focus
+
+I am currently exploring how world models and action-centered representations can help AI agents move beyond passive perception toward grounded decision-making.
+
+In particular, I am interested in:
+
+- how VLA models connect perception, language, and action
+- how world action models can represent the consequences of decisions
+- how agents can reason more reliably across long-horizon tasks
+- how communication systems may support future intelligent and embodied systems
+
+## Long-Term Interest
+
+I hope to understand and build intelligent systems that can not only see and describe the world, but also reason about it, interact with it, and communicate within it.
+
+## Contact
+
+- Email: 2022360902021@std.uestc.edu.cn
