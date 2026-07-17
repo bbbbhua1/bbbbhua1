@@ -37,4 +37,4 @@ I hope to understand and build intelligent systems that can not only see and des
 
 ## Contact
 
-- Email: 2022360902021@std.uestc.edu.cn
+- Email: bbhuazhang@gmail.com
